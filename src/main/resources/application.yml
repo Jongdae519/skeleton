@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: app
+
+server:
+  port: 1423
+
+logging:
+  level:
+    org.springframework: DEBUG
